@@ -14,3 +14,4 @@ while True:
     if len(G) == x:
         break
 
+print(H)
